@@ -11,3 +11,27 @@ Traditionally, a continuous-wave (CW) signal is used to evaluate and simulate RF
 * MATLAB 2019b or newer version
 * ADS2019 or newer version
 * Cadence
+
+# 3. How to use the Co-Simulation Platform
+1. Download the all files. Put 'RF_OFDM', 'Matlab_ADS_Data' and 'Cosimulation_TRx_wrk' folders into the same loacation.
+
+2. Open Matlab 2019a (or later). Go to ‘RF_OFDM’ folder, Select and run ‘App_Ver2.mlapp’. 
+<img src="Picture/Run_GUI.PNG" width="500">
+
+3. Check the interchange files path in "Top_receiver_gui.m" and "Top_transmitter_gui.m" are consistent with your downloaded location.
+<img src="Picture/matlab_path.png" width="%80">
+<img src="Picture/matlab_path_2.png" width="%80">
+
+4. Run the "App_Ver2.mlapp" in the MATLAB then you can see the GUI of the Co-Simulation Platform. You can change the parameters of the generated signal such as the number of the subcarriers, modulation scheme and so on. 
+<img src="Picture/gui_empty.png" width="%80">
+
+ 5. Then click "Signal Modulation" button. Wait for a second, the spectrum, constellation and waveform of the transmitted signal are shown in the window.
+ <img src="Picture/gui_trans.png" width="%80">
+
+ 6. Then open the ADS project. Check the interchange file location to confirm they are consistent with your downloaded location. Then run the ADS simulation.
+ <img src="Picture/ADS_project.png" width="%80">
+
+ 7. After the ADS simulation is completed. Back to the MATLAB GUI. Click "Singal Demodulation" button. Then the spectrum, constellation, waveform and the calculated parameters of the received signal is shown in the window.
+ <img src="Picture/gui_rece.png" width="%80">
+ 
+ 8. Now you can replace your own design to the example project for the Co-Simulation!
