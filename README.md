@@ -18,9 +18,8 @@ Step 1. Download the all files. Put 'RF_OFDM', 'Matlab_ADS_Data' and 'Cosimulati
 Step 2. Open Matlab 2019a (or later). Go to ‘RF_OFDM’ folder, Select and run ‘App_Ver2.mlapp’. 
 <img src="Pictures/Run_GUI.PNG" width="500">
 
-Step 3. Setup the GUI as shown right accroding to your requirements, such as number of subcarriers, modulation order, etc. 
-<img src="Picture/matlab_path.png" width="%80">
-<img src="Picture/matlab_path_2.png" width="%80">
+Step 3. Setup the GUI accroding to your requirements, such as number of subcarriers, modulation order, etc. The following figure shows an exampple.
+<img src="Pictures/Co-simulation_Platform_GUI.png" width="%80">
 
 Step 4. Use ADS2019 or latter to open the workspace named 'Cosimulation_TRx_wrk'. The ADS simulation schematic is as follow. 
 <img src="Pictures/ADS_Schematic.png" width="%80">
