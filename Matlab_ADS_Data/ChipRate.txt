@@ -1,0 +1,4 @@
+BEGIN ADSVAR
+% index(real) OverSampling(real) ChipRate(real) Num(real)
+1	4	2e+07	8693	
+END
