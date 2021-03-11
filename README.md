@@ -14,7 +14,7 @@ Traditionally, a continuous-wave (CW) signal is used to evaluate and simulate RF
 ## 3. Co-simulation Flow
 The co-simulation flow is summarized and is shown in the following figure. The ENVELOPE controller offering a fast and complete analysis of digitally modulated RF signals, therefore the simulation of the transceiver system in Step (3) should use the ENVELOPE controller in ADS. The data flow (DF) and ENVELOPE controllers should be utilized simultaneously when performing co-simulation in ADS. 
 
-<img src="Pictures/Co-simulation Steps.png" width="400">
+<img src="Pictures/Co-simulation Steps.png" width="500">
 
 The following link shows a co-simulation demon video. 
 
