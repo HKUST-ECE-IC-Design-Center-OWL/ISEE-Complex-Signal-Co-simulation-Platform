@@ -23,7 +23,7 @@ Step 3. Setup the GUI as shown right accroding to your requirements, such as num
 <img src="Picture/matlab_path_2.png" width="%80">
 
 Step 4. Use ADS2019 or latter to open the workspace named 'Cosimulation_TRx_wrk'. The ADS simulation schematic is as follow. 
-<img src="Pictures/ADS_Schematic.png" width="%80">
+<img src="Pictures/ADS_Schematic.pdf" width="%80">
 
  5. Then click "Signal Modulation" button. Wait for a second, the spectrum, constellation and waveform of the transmitted signal are shown in the window.
  <img src="Picture/gui_trans.png" width="%80">
