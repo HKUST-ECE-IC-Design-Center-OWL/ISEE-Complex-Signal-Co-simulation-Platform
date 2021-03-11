@@ -7,3 +7,7 @@ Traditionally, a continuous-wave (CW) signal is used to evaluate and simulate RF
 
 <img src="Pictures/Platform_Usefull.png" width="600">
 
+# 2. Enviroment Requirment
+* MATLAB 2019b or newer version
+* ADS2019 or newer version
+* Cadence
