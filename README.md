@@ -34,7 +34,7 @@ Step 4. Use ADS2019 or latter to open the workspace named 'Cosimulation_TRx_wrk'
 <img src="Pictures/ADS_Schematic.png" width="%80">
 
 After completing the simulation in schematic, the results will appear as shown below.
-<img src="Pictures/ADS_Simulation_Results.png" width="600">
+<img src="Pictures/ADS_Simulation_Results.png" width="%80">
 
 Step 5. Go back to the GUI and click "Signal Modulation" button. Wait for a second, the spectrum, constellation and waveform of the transmitted signal are shown in the window, as shown in the figure (right part) in Step 3. 
  
