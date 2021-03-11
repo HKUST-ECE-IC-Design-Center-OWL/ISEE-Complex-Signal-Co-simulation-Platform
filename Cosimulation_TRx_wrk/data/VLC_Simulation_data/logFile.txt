@@ -1,0 +1,15 @@
+
+hpeesofsim (*) 490.shp Nov 12 2018, MINT version 4
+    (64-bit windows built: Tue Nov 13, 2018 02:20:54 +0000)
+
+`DF': Simulation started. 
+`DF': Scheduling completed in 0 milliseconds (CPU time).
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 1
+    Number of nodes with no DC path to ground (topology corrected): 1
+
+`DF': Simulation completed in 4 seconds (CPU time).
+
+Resource usage:
+  Total stopwatch time     =     4.84 seconds.
+
