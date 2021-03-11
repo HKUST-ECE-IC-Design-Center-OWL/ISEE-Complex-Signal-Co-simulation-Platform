@@ -1,4 +1,4 @@
-# HKUST OWL Mixe-Mode Co-simulation Platform
+# HKUST OWL Mixed-Mode Co-simulation Platform
 Supervised by Professor C. Patrick Yue, we developed this co-simulation platform for high frequency RF and mm-Wave transceiver systems dealing with complex modulated signals
 
 ## 1. Motivation
