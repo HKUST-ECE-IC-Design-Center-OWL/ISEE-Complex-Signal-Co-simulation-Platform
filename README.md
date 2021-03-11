@@ -12,7 +12,13 @@ Traditionally, a continuous-wave (CW) signal is used to evaluate and simulate RF
 * ADS2019 or newer version
 * Cadence
 
-## 3. How to use the Co-Simulation Platform
+## 3. Co-simulation steps
+the co-simulation flow is summarized and is shown in the following figure. The \textbf{ENVELOPE} controller offering a fast and complete analysis of digitally modulated RF signals, therefore the simulation of the transceiver system in Step (3) should use the \textbf{ENVELOPE} controller in ADS. The data flow (\textbf{DF}) and \textbf{ENVELOPE} controllers should be utilized simultaneously when performing co-simulation in ADS. 
+<img src="Pictures/Co-simulation Steps.png" width="300">
+
+## 4. Tutorial for the Co-Simulation Platform
+The following steps show a cosimulation example step-by-step. 
+
 Step 1. Download the all files. Put 'RF_OFDM', 'Matlab_ADS_Data' and 'Cosimulation_TRx_wrk' folders into the same loacation.
 
 Step 2. Open Matlab 2019a (or later). Go to ‘RF_OFDM’ folder, Select and run ‘App_Ver2.mlapp’. 
