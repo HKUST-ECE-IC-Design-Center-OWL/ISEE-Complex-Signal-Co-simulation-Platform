@@ -39,3 +39,5 @@ After completing the simulation in schematic, the results will appear as shown b
 Step 5. Go back to the GUI and click "Signal Modulation" button. Wait for a second, the spectrum, constellation and waveform of the transmitted signal are shown in the window, as shown in the figure (right part) in Step 3. 
  
 Step 6. Now you can replace your own design to the example project for the Co-Simulation!
+
+For more information, please contact us at: eewmshi@ust.hk
