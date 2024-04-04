@@ -17,7 +17,7 @@ The co-simulation flow is summarized and is shown in the following figure. The E
 <img src="Pictures/Co-simulation Steps.png" width="500">
 
 The following link shows a co-simulation demon video. 
-https://www.dropbox.com/s/yozp1s3v05lhn6p/Cosimulation_Platform_Demo.mp4?dl=0
+https://www.bilibili.com/video/BV1Hz421Z7uC/?spm_id_from=333.999.0.0&vd_source=697d5fc007439f3a899da3d0a3f81f3b
 
 ## 4. Tutorial for the Co-Simulation Platform
 The following steps show a cosimulation example step-by-step. 
